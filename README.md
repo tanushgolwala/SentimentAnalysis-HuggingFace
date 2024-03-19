@@ -1,6 +1,6 @@
 # Sentiment Analysis Model on IMDb Dataset
 
-# link : [Click](https://huggingface.co/tanushgolwala/finetuning-sentiment-model-3000-samples)
+link : [Click](https://huggingface.co/tanushgolwala/finetuning-sentiment-model-3000-samples)
 
 ## Overview
 This repository contains a sentiment analysis model trained on the IMDb dataset using the Hugging Face library. The model is capable of predicting the sentiment (positive or negative) of movie reviews.
